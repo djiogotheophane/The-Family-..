@@ -1,0 +1,6 @@
+{
+  "name": "The Family Thai Restaurant",
+  "description": "Experience gastronomique d'exception au restaurant thaïlandais THE FAMILY. Menu intelligent, réservation de table immersive, commande en ligne et concierge virtuel IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
